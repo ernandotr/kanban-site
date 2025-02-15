@@ -111,6 +111,7 @@ body {
 }
 
 .badge {
+    font-size: 13px;
     color: #fff;
     background-color: #809bf4;
     width: fit-content;
